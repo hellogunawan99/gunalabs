@@ -1,0 +1,192 @@
+{
+  "metadata": {
+    "title": "Gunalabs - Construindo a Tecnologia do Amanhã Hoje",
+    "description": "Pioneiros do futuro da tecnologia através de aplicações inovadoras, integração de IA e soluções de hardware de ponta para B2B e uso pessoal."
+  },
+  "nav": {
+    "home": "Início",
+    "services": "Serviços",
+    "products": "Produtos",
+    "contact": "Contato"
+  },
+  "hero": {
+    "badge": "Inovando o Futuro da Tecnologia",
+    "title": "Construindo a Tecnologia do Amanhã Hoje",
+    "subtitle": "De aplicações alimentadas por IA a hardware de ponta, transformamos ideias em soluções poderosas. Seu parceiro em inovação digital.",
+    "cta": {
+      "getStarted": "Começar",
+      "exploreServices": "Explorar Serviços"
+    }
+  },
+  "services": {
+    "title": "Soluções Tecnológicas Abrangentes",
+    "subtitle": "Do conceito à implementação, fornecemos serviços tecnológicos de ponta a ponta que impulsionam inovação e crescimento.",
+    "badge": "O que Oferecemos",
+    "viewAll": "Ver Todos os Serviços",
+    "getStarted": "Começar com {service}",
+    "items": {
+      "1": {
+        "title": "Desenvolvimento de Aplicações",
+        "description": "Soluções de software personalizadas adaptadas às suas necessidades de negócio. De aplicações web a sistemas empresariais, construímos aplicações escaláveis e robustas."
+      },
+      "2": {
+        "title": "Digitalização",
+        "description": "Transforme seus processos de negócio com soluções digitais. Ajudamos a otimizar operações, reduzir custos e melhorar eficiência através da tecnologia."
+      },
+      "3": {
+        "title": "Integração de IA",
+        "description": "Aproveite o poder da inteligência artificial para aprimorar seus produtos e serviços. De machine learning a processamento de linguagem natural."
+      },
+      "4": {
+        "title": "Produtos de Hardware",
+        "description": "Soluções de hardware inovadoras para IoT, sistemas embarcados e computação especializada. Do conceito à produção, entregamos hardware de qualidade."
+      },
+      "5": {
+        "title": "Produtos Digitais",
+        "description": "Produtos digitais prontos para lançamento, incluindo plataformas SaaS, aplicações móveis e soluções baseadas em nuvem. Ajudamos você a levar ideias digitais ao mercado."
+      }
+    }
+  },
+  "products": {
+    "title": "Soluções Inovadoras",
+    "subtitle": "Descubra nossa suite de produtos de ponta projetados para transformar seu negócio.",
+    "badge": "Nossos Produtos",
+    "viewAll": "Ver Todos os Produtos",
+    "categories": {
+      "all": "Todos",
+      "hardware": "Hardware",
+      "digital": "Digital"
+    },
+    "learnMore": "Saiba mais",
+    "requestDemo": "Solicitar Demo",
+    "getStarted": "Começar",
+    "specs": "Especificações"
+  },
+  "about": {
+    "title": "Pioneiros da Tecnologia para um Amanhã Melhor",
+    "subtitle": "Fundada em 2016, a Gunalabs está na vanguarda da inovação tecnológica. Combinamos profunda experiência com pensamento criativo para entregar soluções que transformam negócios e melhoram vidas.",
+    "badge": "Sobre Nós",
+    "stats": {
+      "projects": "Projetos Concluídos",
+      "clients": "Clientes Satisfeitos",
+      "team": "Membros da Equipe",
+      "years": "Anos de Experiência"
+    },
+    "values": {
+      "precision": {
+        "title": "Precisão",
+        "description": "Entregamos soluções com atenção meticulosa aos detalhes e qualidade intransigente."
+      },
+      "innovation": {
+        "title": "Inovação",
+        "description": "Ultrapassando limites para criar soluções que moldam o futuro da tecnologia."
+      },
+      "partnership": {
+        "title": "Parceria",
+        "description": "Seu sucesso é nosso sucesso. Construímos relacionamentos duradouros com nossos clientes."
+      }
+    }
+  },
+  "testimonials": {
+    "title": "O que Nossos Clientes Dizem",
+    "subtitle": "Não acredite apenas na nossa palavra. Ouça das empresas que ajudamos a transformar.",
+    "badge": "Depoimentos"
+  },
+  "contactCta": {
+    "title": "Pronto para Transformar Seu Negócio?",
+    "subtitle": "Vamos discutir como a Gunalabs pode ajudá-lo a alcançar seus objetivos tecnológicos. Entre em contato hoje e comece sua jornada de transformação digital.",
+    "placeholder": "Digite seu email",
+    "cta": "Começar",
+    "subscribed": "Inscrito!",
+    "privacy": "Sem spam, cancele a qualquer momento. Respeitamos sua privacidade."
+  },
+  "contact": {
+    "title": "Entre em Contato",
+    "subtitle": "Tem um projeto em mente? Vamos discutir como podemos ajudá-lo a alcançar seus objetivos.",
+    "badge": "Contato",
+    "form": {
+      "title": "Envie-nos uma mensagem",
+      "name": "Nome Completo",
+      "namePlaceholder": "João Silva",
+      "email": "Endereço de Email",
+      "emailPlaceholder": "joao@empresa.com",
+      "company": "Empresa",
+      "companyPlaceholder": "Sua Empresa",
+      "subject": "Assunto",
+      "subjectPlaceholder": "Consulta de Projeto",
+      "message": "Mensagem",
+      "messagePlaceholder": "Conte-nos sobre seu projeto...",
+      "submit": "Enviar Mensagem",
+      "sending": "Enviando...",
+      "success": "Mensagem Enviada!",
+      "successMessage": "Obrigado por entrar em contato. Responderemos em até 24 horas."
+    },
+    "info": {
+      "title": "Informações de Contato",
+      "address": {
+        "label": "Endereço do Escritório",
+        "value": "123 Innovation Drive, Tech City, TC 12345, Estados Unidos"
+      },
+      "phone": {
+        "label": "Número de Telefone",
+        "value": "+1 (555) 123-4567",
+        "hours": "Seg - Sex, 9h - 18h EST"
+      },
+      "email": {
+        "label": "Endereço de Email",
+        "general": "hello@gunalabs.io",
+        "support": "support@gunalabs.io"
+      },
+      "hours": {
+        "label": "Horário de Funcionamento",
+        "weekdays": "Segunda - Sexta: 9:00 - 18:00",
+        "weekend": "Sábado - Domingo: Fechado"
+      }
+    },
+    "visitTitle": "Visite Nosso Escritório",
+    "visitSubtitle": "Adoraríamos conhecê-lo pessoalmente. Agende uma reunião para discutir seu projeto."
+  },
+  "footer": {
+    "tagline": "Pioneiros do futuro da tecnologia através de aplicações inovadoras, integração de IA e soluções de hardware de ponta.",
+    "services": "Serviços",
+    "products": "Produtos",
+    "contact": "Contato",
+    "privacy": "Política de Privacidade",
+    "terms": "Termos de Serviço",
+    "copyright": "© 2024 Gunalabs. Todos os direitos reservados."
+  },
+  "servicesPage": {
+    "title": "Soluções Tecnológicas Abrangentes",
+    "subtitle": "Do conceito à implementação, fornecemos serviços tecnológicos de ponta a ponta.",
+    "process": {
+      "title": "Como Trabalhamos",
+      "subtitle": "Uma metodologia comprovada que garante entrega bem-sucedida do projeto todas as vezes.",
+      "badge": "Nosso Processo",
+      "steps": {
+        "discovery": "Descoberta",
+        "discoveryDesc": "Aprofundamos em seus requisitos, objetivos e desafios para entender suas necessidades únicas.",
+        "strategy": "Estratégia",
+        "strategyDesc": "Nossos especialistas elaboram um roadmap abrangente alinhado com seus objetivos de negócio.",
+        "development": "Desenvolvimento",
+        "developmentDesc": "Desenvolvimento ágil com atualizações regulares, garantindo transparência e flexibilidade.",
+        "deployment": "Implantação",
+        "deploymentDesc": "Lançamento contínuo com suporte contínuo e otimização para desempenho máximo."
+      }
+    },
+    "cta": {
+      "title": "Pronto para Começar Seu Projeto?",
+      "subtitle": "Vamos discutir como podemos ajudá-lo a alcançar seus objetivos tecnológicos.",
+      "cta": "Entre em Contato"
+    },
+    "whatWeOffer": "O que Oferecemos"
+  },
+  "productsPage": {
+    "title": "Soluções Inovadoras",
+    "subtitle": "Descubra nossa suite de produtos de ponta projetados para transformar seu negócio e projetos pessoais.",
+    "badge": "Nossos Produtos",
+    "filter": "Filtrar por:",
+    "getStarted": "Precisa de uma Solução Personalizada?",
+    "subtitleCta": "Também oferecemos desenvolvimento de produtos personalizado adaptado às suas necessidades específicas.",
+    "cta": "Entre em Contato"
+  }
+}

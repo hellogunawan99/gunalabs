@@ -1,0 +1,192 @@
+{
+  "metadata": {
+    "title": "Gunalabs - Membangun Teknologi Masa Depan Hari Ini",
+    "description": "Memimpin masa depan teknologi melalui aplikasi inovatif, integrasi AI, dan solusi perangkat keras mutakhir untuk B2B dan penggunaan pribadi."
+  },
+  "nav": {
+    "home": "Beranda",
+    "services": "Layanan",
+    "products": "Produk",
+    "contact": "Kontak"
+  },
+  "hero": {
+    "badge": "Menginobasi Masa Depan Teknologi",
+    "title": "Membangun Teknologi Masa Depan Hari Ini",
+    "subtitle": "Dari aplikasi bertenaga AI hingga perangkat keras canggih, kami mengubah ide menjadi solusi powerful. Mitra Anda dalam inovasi digital.",
+    "cta": {
+      "getStarted": "Memulai",
+      "exploreServices": "Jelajahi Layanan"
+    }
+  },
+  "services": {
+    "title": "Solusi Teknologi Komprehensif",
+    "subtitle": "Dari konsep hingga implementasi, kami menyediakan layanan teknologi end-to-end yang mendorong inovasi dan pertumbuhan.",
+    "badge": "Yang Kami Tawarkan",
+    "viewAll": "Lihat Semua Layanan",
+    "getStarted": "Mulai dengan {service}",
+    "items": {
+      "1": {
+        "title": "Pengembangan Aplikasi",
+        "description": "Solusi perangkat lunak kustom yang disesuaikan dengan kebutuhan bisnis Anda. Dari aplikasi web hingga sistem perusahaan, kami membangun aplikasi yang skalabel dan kuat."
+      },
+      "2": {
+        "title": "Digitalisasi",
+        "description": "Ubah proses bisnis Anda dengan solusi digital. Kami membantu merampingkan operasi, mengurangi biaya, dan meningkatkan efisiensi melalui teknologi."
+      },
+      "3": {
+        "title": "Integrasi AI",
+        "description": "Manfaatkan kekuatan kecerdasan buatan untuk meningkatkan produk dan layanan Anda. Dari machine learning hingga pemrosesan bahasa alami."
+      },
+      "4": {
+        "title": "Produk Perangkat Keras",
+        "description": "Solusi perangkat keras inovatif untuk IoT, sistem tertanam, dan komputasi khusus. Dari konsep hingga produksi, kami menghadirkan perangkat keras berkualitas."
+      },
+      "5": {
+        "title": "Produk Digital",
+        "description": "Produk digital siap luncur termasuk platform SaaS, aplikasi seluler, dan solusi berbasis cloud. Kami membantu Anda membawa ide digital ke pasar."
+      }
+    }
+  },
+  "products": {
+    "title": "Solusi Inovatif",
+    "subtitle": "Temukan suite produk canggih kami yang dirancang untuk mengubah bisnis Anda.",
+    "badge": "Produk Kami",
+    "viewAll": "Lihat Semua Produk",
+    "categories": {
+      "all": "Semua",
+      "hardware": "Perangkat Keras",
+      "digital": "Digital"
+    },
+    "learnMore": "Pelajari lebih lanjut",
+    "requestDemo": "Minta Demo",
+    "getStarted": "Memulai",
+    "specs": "Spesifikasi"
+  },
+  "about": {
+    "title": "Memimpin Teknologi untuk Masa Depan yang Lebih Baik",
+    "subtitle": "Didirikan pada tahun 2016, Gunalabs telah berada di garis depan inovasi teknologi. Kami menggabungkan keahlian mendalam dengan pemikiran kreatif untuk memberikan solusi yang mengubah bisnis dan meningkatkan kehidupan.",
+    "badge": "Tentang Kami",
+    "stats": {
+      "projects": "Proyek Selesai",
+      "clients": "Klien Puas",
+      "team": "Anggota Tim",
+      "years": "Tahun Pengalaman"
+    },
+    "values": {
+      "precision": {
+        "title": "Presisi",
+        "description": "Kami memberikan solusi dengan perhatian detail yang teliti dan kualitas tanpa kompromi."
+      },
+      "innovation": {
+        "title": "Inovasi",
+        "description": "Mendorong batas untuk menciptakan solusi yang membentuk masa depan teknologi."
+      },
+      "partnership": {
+        "title": "Kemitraan",
+        "description": "Kesuksesan Anda adalah kesuksesan kami. Kami membangun hubungan jangka panjang dengan klien kami."
+      }
+    }
+  },
+  "testimonials": {
+    "title": "Apa Kata Klien Kami",
+    "subtitle": "Jangan hanya mendengar dari kami. Dengarkan dari bisnis yang telah kami bantu transformasikan.",
+    "badge": "Testimonial"
+  },
+  "contactCta": {
+    "title": "Siap Mentransformasi Bisnis Anda?",
+    "subtitle": "Mari diskusikan bagaimana Gunalabs dapat membantu Anda mencapai tujuan teknologi. Hubungi kami hari ini dan mulai perjalanan transformasi digital Anda.",
+    "placeholder": "Masukkan email Anda",
+    "cta": "Memulai",
+    "subscribed": "Berlangganan!",
+    "privacy": "Tanpa spam, berhenti langganan kapan saja. Kami menghormati privasi Anda."
+  },
+  "contact": {
+    "title": "Hubungi Kami",
+    "subtitle": "Punya proyek dalam pikiran? Mari diskusikan bagaimana kami dapat membantu Anda mencapai tujuan.",
+    "badge": "Kontak Kami",
+    "form": {
+      "title": "Kirimkan pesan",
+      "name": "Nama Lengkap",
+      "namePlaceholder": "John Doe",
+      "email": "Alamat Email",
+      "emailPlaceholder": "john@perusahaan.com",
+      "company": "Perusahaan",
+      "companyPlaceholder": "Perusahaan Anda",
+      "subject": "Subjek",
+      "subjectPlaceholder": "Pertanyaan Proyek",
+      "message": "Pesan",
+      "messagePlaceholder": "Ceritakan tentang proyek Anda...",
+      "submit": "Kirim Pesan",
+      "sending": "Mengirim...",
+      "success": "Pesan Terkirim!",
+      "successMessage": "Terima kasih telah menghubungi. Kami akan menghubungi Anda dalam 24 jam."
+    },
+    "info": {
+      "title": "Informasi Kontak",
+      "address": {
+        "label": "Alamat Kantor",
+        "value": "123 Innovation Drive, Tech City, TC 12345, Amerika Serikat"
+      },
+      "phone": {
+        "label": "Nomor Telepon",
+        "value": "+1 (555) 123-4567",
+        "hours": "Sen - Jum, 09:00 - 18:00 EST"
+      },
+      "email": {
+        "label": "Alamat Email",
+        "general": "hello@gunalabs.io",
+        "support": "support@gunalabs.io"
+      },
+      "hours": {
+        "label": "Jam Kerja",
+        "weekdays": "Senin - Jumat: 09:00 - 18:00",
+        "weekend": "Sabtu - Minggu: Tutup"
+      }
+    },
+    "visitTitle": "Kunjungi Kantor Kami",
+    "visitSubtitle": "Kami dengan senang hati bertemu Anda secara langsung. Jadwalkan janji temu untuk membahas proyek Anda."
+  },
+  "footer": {
+    "tagline": "Memimpin masa depan teknologi melalui aplikasi inovatif, integrasi AI, dan solusi perangkat keras mutakhir.",
+    "services": "Layanan",
+    "products": "Produk",
+    "contact": "Kontak",
+    "privacy": "Kebijakan Privasi",
+    "terms": "Ketentuan Layanan",
+    "copyright": "© 2024 Gunalabs. Hak cipta dilindungi."
+  },
+  "servicesPage": {
+    "title": "Solusi Teknologi Komprehensif",
+    "subtitle": "Dari konsep hingga implementasi, kami menyediakan layanan teknologi end-to-end yang mendorong inovasi dan pertumbuhan.",
+    "process": {
+      "title": "Bagaimana Kami Bekerja",
+      "subtitle": "Metodologi teruji yang memastikan pengiriman proyek sukses setiap saat.",
+      "badge": "Proses Kami",
+      "steps": {
+        "discovery": "Penemuan",
+        "discoveryDesc": "Kami menyelami kebutuhan, tujuan, dan tantangan Anda untuk memahami kebutuhan unik Anda.",
+        "strategy": "Strategi",
+        "strategyDesc": "Ahli kami menyusun roadmap komprehensif yang sejalan dengan tujuan bisnis Anda.",
+        "development": "Pengembangan",
+        "developmentDesc": "Pengembangan agile dengan pembaruan reguler, memastikan transparansi dan fleksibilitas.",
+        "deployment": "Deploymen",
+        "deploymentDesc": "Peluncuran mulus dengan dukungan dan optimasi berkelanjutan untuk performa puncak."
+      }
+    },
+    "cta": {
+      "title": "Siap Memulai Proyek Anda?",
+      "subtitle": "Mari diskusikan bagaimana kami dapat membantu Anda mencapai tujuan teknologi.",
+      "cta": "Hubungi Kami"
+    },
+    "whatWeOffer": "Yang Kami Tawarkan"
+  },
+  "productsPage": {
+    "title": "Solusi Inovatif",
+    "subtitle": "Temukan suite produk canggih kami yang dirancang untuk mengubah bisnis dan proyek pribadi Anda.",
+    "badge": "Produk Kami",
+    "filter": "Filter berdasarkan:",
+    "getStarted": "Butuh Solusi Kustom?",
+    "subtitleCta": "Kami juga menawarkan pengembangan produk kustom yang disesuaikan dengan kebutuhan spesifik Anda.",
+    "cta": "Hubungi Kami"
+  }
+}

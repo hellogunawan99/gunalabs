@@ -1,0 +1,192 @@
+{
+  "metadata": {
+    "title": "Gunalabs - 今天建设明天的科技",
+    "description": "通过创新应用、AI集成和尖端硬件解决方案引领科技未来，服务B2B和个人用户。"
+  },
+  "nav": {
+    "home": "首页",
+    "services": "服务",
+    "products": "产品",
+    "contact": "联系"
+  },
+  "hero": {
+    "badge": "创新科技未来",
+    "title": "今天建设明天的科技",
+    "subtitle": "从AI驱动的应用到尖端硬件，我们将创意转化为强大解决方案。您的数字创新合作伙伴。",
+    "cta": {
+      "getStarted": "开始",
+      "exploreServices": "探索服务"
+    }
+  },
+  "services": {
+    "title": "综合技术解决方案",
+    "subtitle": "从概念到部署，我们提供推动创新和增长的全方位技术服务。",
+    "badge": "我们提供",
+    "viewAll": "查看所有服务",
+    "getStarted": "开始{service}",
+    "items": {
+      "1": {
+        "title": "应用开发",
+        "description": "定制化软件解决方案，量身打造您的业务需求。从Web应用到企业系统，我们构建可扩展且强大的应用。"
+      },
+      "2": {
+        "title": "数字化",
+        "description": "通过数字化解决方案转型业务流程。我们帮助简化运营、降低成本、通过技术提高效率。"
+      },
+      "3": {
+        "title": "AI集成",
+        "description": "利用人工智能的力量增强您的产品和服务。从机器学习到自然语言处理。"
+      },
+      "4": {
+        "title": "硬件产品",
+        "description": "物联网、嵌入式系统和专业计算的创新硬件解决方案。从概念到生产，我们交付优质硬件。"
+      },
+      "5": {
+        "title": "数字产品",
+        "description": "可立即推出的数字产品，包括SaaS平台、移动应用和云解决方案。我们帮助您将数字创意推向市场。"
+      }
+    }
+  },
+  "products": {
+    "title": "创新解决方案",
+    "subtitle": "发现我们精心设计的尖端产品组合，旨在改变您的业务。",
+    "badge": "我们的产品",
+    "viewAll": "查看所有产品",
+    "categories": {
+      "all": "全部",
+      "hardware": "硬件",
+      "digital": "数字"
+    },
+    "learnMore": "了解更多",
+    "requestDemo": "请求演示",
+    "getStarted": "开始",
+    "specs": "规格"
+  },
+  "about": {
+    "title": "为更美好明天引领科技",
+    "subtitle": "Gunalabs成立于2016年，一直处于科技创新的前沿。我们将深厚专业知识与创意思维相结合，提供改变业务、改善生活的解决方案。",
+    "badge": "关于我们",
+    "stats": {
+      "projects": "已完成项目",
+      "clients": "满意客户",
+      "team": "团队成员",
+      "years": "年经验"
+    },
+    "values": {
+      "precision": {
+        "title": "精准",
+        "description": "我们以一丝不苟的态度和坚定不移的质量交付解决方案。"
+      },
+      "innovation": {
+        "title": "创新",
+        "description": "突破界限，创造塑造科技未来的解决方案。"
+      },
+      "partnership": {
+        "title": "伙伴关系",
+        "description": "您的成功就是我们的成功。我们与客户建立持久关系。"
+      }
+    }
+  },
+  "testimonials": {
+    "title": "客户评价",
+    "subtitle": "不要只听我们说。来听听我们帮助转型的企业的声音。",
+    "badge": "推荐"
+  },
+  "contactCta": {
+    "title": "准备好转型您的业务了吗？",
+    "subtitle": "让我们讨论Gunalabs如何帮助您实现技术目标。今天联系我们，开始您的数字化转型之旅。",
+    "placeholder": "输入您的邮箱",
+    "cta": "开始",
+    "subscribed": "已订阅！",
+    "privacy": "无垃圾邮件，随时退订。我们尊重您的隐私。"
+  },
+  "contact": {
+    "title": "联系我们",
+    "subtitle": "有项目想法？让我们讨论我们如何帮助您实现目标。",
+    "badge": "联系我们",
+    "form": {
+      "title": "发送消息",
+      "name": "全名",
+      "namePlaceholder": "张三",
+      "email": "邮箱地址",
+      "emailPlaceholder": "zhangsan@公司.com",
+      "company": "公司",
+      "companyPlaceholder": "您的公司",
+      "subject": "主题",
+      "subjectPlaceholder": "项目咨询",
+      "message": "消息",
+      "messagePlaceholder": "告诉我们您的项目...",
+      "submit": "发送消息",
+      "sending": "发送中...",
+      "success": "消息已发送！",
+      "successMessage": "感谢您的联系。我们将在24小时内回复您。"
+    },
+    "info": {
+      "title": "联系信息",
+      "address": {
+        "label": "办公室地址",
+        "value": "创新路123号，科技城，TC 12345，美国"
+      },
+      "phone": {
+        "label": "电话号码",
+        "value": "+1 (555) 123-4567",
+        "hours": "周一至周五，上午9点至下午6点 EST"
+      },
+      "email": {
+        "label": "邮箱地址",
+        "general": "hello@gunalabs.io",
+        "support": "support@gunalabs.io"
+      },
+      "hours": {
+        "label": "工作时间",
+        "weekdays": "周一至周五：上午9点至下午6点",
+        "weekend": "周六至周日：休息"
+      }
+    },
+    "visitTitle": "访问我们的办公室",
+    "visitSubtitle": "我们非常乐意与您见面。预约讨论您的项目。"
+  },
+  "footer": {
+    "tagline": "通过创新应用、AI集成和尖端硬件解决方案引领科技未来。",
+    "services": "服务",
+    "products": "产品",
+    "contact": "联系",
+    "privacy": "隐私政策",
+    "terms": "服务条款",
+    "copyright": "© 2024 Gunalabs. 保留所有权利。"
+  },
+  "servicesPage": {
+    "title": "综合技术解决方案",
+    "subtitle": "从概念到部署，我们提供推动创新和增长的全方位技术服务。",
+    "process": {
+      "title": "我们的工作方式",
+      "subtitle": "经过验证的方法论，确保每次项目成功交付。",
+      "badge": "我们的流程",
+      "steps": {
+        "discovery": "发现",
+        "discoveryDesc": "我们深入了解您的需求、目标和挑战，以理解您的独特需求。",
+        "strategy": "策略",
+        "strategyDesc": "我们的专家制定符合您业务目标的综合路线图。",
+        "development": "开发",
+        "developmentDesc": "敏捷开发，定期更新，确保透明度和灵活性。",
+        "deployment": "部署",
+        "deploymentDesc": "无缝上线，持续支持和高性能优化。"
+      }
+    },
+    "cta": {
+      "title": "准备好开始您的项目了吗？",
+      "subtitle": "让我们讨论我们如何帮助您实现技术目标。",
+      "cta": "联系我们"
+    },
+    "whatWeOffer": "我们提供"
+  },
+  "productsPage": {
+    "title": "创新解决方案",
+    "subtitle": "发现我们精心设计的尖端产品组合，旨在改变您的业务和个人项目。",
+    "badge": "我们的产品",
+    "filter": "筛选：",
+    "getStarted": "需要定制解决方案？",
+    "subtitleCta": "我们还提供根据您的特定需求定制的定制产品开发。",
+    "cta": "联系我们"
+  }
+}

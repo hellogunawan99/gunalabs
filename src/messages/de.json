@@ -1,0 +1,192 @@
+{
+  "metadata": {
+    "title": "Gunalabs - Die Technologie von morgen bereits heute gestalten",
+    "description": "Wir gestalten die Zukunft der Technologie durch innovative Anwendungen, KI-Integration und hochmoderne Hardware-Lösungen für B2B und private Nutzung."
+  },
+  "nav": {
+    "home": "Startseite",
+    "services": "Dienstleistungen",
+    "products": "Produkte",
+    "contact": "Kontakt"
+  },
+  "hero": {
+    "badge": "Die Zukunft der Technologie innovieren",
+    "title": "Die Technologie von morgen bereits heute gestalten",
+    "subtitle": "Von KI-gesteuerten Anwendungen bis hin zu hochmoderner Hardware verwandeln wir Ideen in leistungsstarke Lösungen. Ihr Partner für digitale Innovation.",
+    "cta": {
+      "getStarted": "Loslegen",
+      "exploreServices": "Dienstleistungen erkunden"
+    }
+  },
+  "services": {
+    "title": "Umfassende Technologielösungen",
+    "subtitle": "Vom Konzept bis zur Bereitstellung bieten wir End-to-End-Technologiedienstleistungen, die Innovation und Wachstum fördern.",
+    "badge": "Was wir bieten",
+    "viewAll": "Alle Dienstleistungen anzeigen",
+    "getStarted": "Mit {service} beginnen",
+    "items": {
+      "1": {
+        "title": "Anwendungsentwicklung",
+        "description": "Maßgeschneiderte Softwarelösungen für Ihre Geschäftsanforderungen. Von Webanwendungen bis zu Enterprise-Systemen entwickeln wir skalierbare und robuste Anwendungen."
+      },
+      "2": {
+        "title": "Digitalisierung",
+        "description": "Transformieren Sie Ihre Geschäftsprozesse mit digitalen Lösungen. Wir helfen, Abläufe zu optimieren, Kosten zu senken und die Effizienz durch Technologie zu verbessern."
+      },
+      "3": {
+        "title": "KI-Integration",
+        "description": "Nutzen Sie die Kraft der künstlichen Intelligenz, um Ihre Produkte und Dienstleistungen zu verbessern. Von maschinellem Lernen bis zur Verarbeitung natürlicher Sprache."
+      },
+      "4": {
+        "title": "Hardware-Produkte",
+        "description": "Innovative Hardware-Lösungen für IoT, eingebettete Systeme und spezialisiertes Computing. Vom Konzept bis zur Produktion liefern wir qualitativ hochwertige Hardware."
+      },
+      "5": {
+        "title": "Digitale Produkte",
+        "description": "Marktreife digitale Produkte, einschließlich SaaS-Plattformen, Mobile Apps und Cloud-basierte Lösungen. Wir helfen Ihnen, digitale Ideen auf den Markt zu bringen."
+      }
+    }
+  },
+  "products": {
+    "title": "Innovative Lösungen",
+    "subtitle": "Entdecken Sie unsere Suite von hochmodernen Produkten, die entwickelt wurden, um Ihr Unternehmen zu transformieren.",
+    "badge": "Unsere Produkte",
+    "viewAll": "Alle Produkte anzeigen",
+    "categories": {
+      "all": "Alle",
+      "hardware": "Hardware",
+      "digital": "Digital"
+    },
+    "learnMore": "Mehr erfahren",
+    "requestDemo": "Demo anfordern",
+    "getStarted": "Loslegen",
+    "specs": "Spezifikationen"
+  },
+  "about": {
+    "title": "Technologie für eine bessere Zukunft vorantreiben",
+    "subtitle": "2016 gegründet, war Gunalabs stets an der Spitze des technologischen Fortschritts. Wir kombinieren tiefes Fachwissen mit kreativem Denken, um Lösungen zu liefern, die Unternehmen transformieren und das Leben verbessern.",
+    "badge": "Über uns",
+    "stats": {
+      "projects": "Abgeschlossene Projekte",
+      "clients": "Zufriedene Kunden",
+      "team": "Teammitglieder",
+      "years": "Jahre Erfahrung"
+    },
+    "values": {
+      "precision": {
+        "title": "Präzision",
+        "description": "Wir liefern Lösungen mit peinlicher Detailgenauigkeit und kompromissloser Qualität."
+      },
+      "innovation": {
+        "title": "Innovation",
+        "description": "Grenzen verschieben, um Lösungen zu schaffen, die die Zukunft der Technologie gestalten."
+      },
+      "partnership": {
+        "title": "Partnerschaft",
+        "description": "Ihr Erfolg ist unser Erfolg. Wir bauen dauerhafte Beziehungen zu unseren Kunden auf."
+      }
+    }
+  },
+  "testimonials": {
+    "title": "Was unsere Kunden sagen",
+    "subtitle": "Glauben Sie uns nicht einfach – hören Sie von den Unternehmen, die wir bei der Transformation unterstützt haben.",
+    "badge": "Erfahrungsberichte"
+  },
+  "contactCta": {
+    "title": "Bereit, Ihr Unternehmen zu transformieren?",
+    "subtitle": "Lassen Sie uns besprechen, wie Gunalabs Ihnen helfen kann, Ihre Technologie-Ziele zu erreichen. Kontaktieren Sie uns noch heute und starten Sie Ihre digitale Transformationsreise.",
+    "placeholder": "Geben Sie Ihre E-Mail ein",
+    "cta": "Loslegen",
+    "subscribed": "Abonniert!",
+    "privacy": "Kein Spam, jederzeit abmelden. Wir respektieren Ihre Privatsphäre."
+  },
+  "contact": {
+    "title": "Kontaktieren Sie uns",
+    "subtitle": "Haben Sie ein Projekt im Sinn? Lassen Sie uns besprechen, wie wir Ihnen helfen können, Ihre Ziele zu erreichen.",
+    "badge": "Kontakt",
+    "form": {
+      "title": "Senden Sie uns eine Nachricht",
+      "name": "Vollständiger Name",
+      "namePlaceholder": "Max Mustermann",
+      "email": "E-Mail-Adresse",
+      "emailPlaceholder": "max@firma.com",
+      "company": "Unternehmen",
+      "companyPlaceholder": "Ihr Unternehmen",
+      "subject": "Betreff",
+      "subjectPlaceholder": "Projektanfrage",
+      "message": "Nachricht",
+      "messagePlaceholder": "Erzählen Sie uns von Ihrem Projekt...",
+      "submit": "Nachricht senden",
+      "sending": "Wird gesendet...",
+      "success": "Nachricht gesendet!",
+      "successMessage": "Vielen Dank für Ihre Kontaktaufnahme. Wir werden uns innerhalb von 24 Stunden bei Ihnen melden."
+    },
+    "info": {
+      "title": "Kontaktinformationen",
+      "address": {
+        "label": "Büroadresse",
+        "value": "123 Innovation Drive, Tech City, TC 12345, Vereinigte Staaten"
+      },
+      "phone": {
+        "label": "Telefonnummer",
+        "value": "+1 (555) 123-4567",
+        "hours": "Mo - Fr, 9:00 - 18:00 Uhr EST"
+      },
+      "email": {
+        "label": "E-Mail-Adresse",
+        "general": "hello@gunalabs.io",
+        "support": "support@gunalabs.io"
+      },
+      "hours": {
+        "label": "Öffnungszeiten",
+        "weekdays": "Montag - Freitag: 9:00 - 18:00 Uhr",
+        "weekend": "Samstag - Sonntag: Geschlossen"
+      }
+    },
+    "visitTitle": "Besuchen Sie unser Büro",
+    "visitSubtitle": "Wir würden uns freuen, Sie persönlich kennenzulernen. Vereinbaren Sie einen Termin, um Ihr Projekt zu besprechen."
+  },
+  "footer": {
+    "tagline": "Wir gestalten die Zukunft der Technologie durch innovative Anwendungen, KI-Integration und hochmoderne Hardware-Lösungen.",
+    "services": "Dienstleistungen",
+    "products": "Produkte",
+    "contact": "Kontakt",
+    "privacy": "Datenschutzrichtlinie",
+    "terms": "Nutzungsbedingungen",
+    "copyright": "© 2024 Gunalabs. Alle Rechte vorbehalten."
+  },
+  "servicesPage": {
+    "title": "Umfassende Technologielösungen",
+    "subtitle": "Vom Konzept bis zur Bereitstellung bieten wir End-to-End-Technologiedienstleistungen.",
+    "process": {
+      "title": "Wie wir arbeiten",
+      "subtitle": "Eine bewährte Methodik, die jedes Mal eine erfolgreiche Projektabgabe gewährleistet.",
+      "badge": "Unser Prozess",
+      "steps": {
+        "discovery": "Entdeckung",
+        "discoveryDesc": "Wir tauchen tief in Ihre Anforderungen, Ziele und Herausforderungen ein, um Ihre einzigartigen Bedürfnisse zu verstehen.",
+        "strategy": "Strategie",
+        "strategyDesc": "Unsere Experten erstellen eine umfassende Roadmap, die mit Ihren Geschäftszielen übereinstimmt.",
+        "development": "Entwicklung",
+        "developmentDesc": "Agile Entwicklung mit regelmäßigen Updates, die Transparenz und Flexibilität gewährleisten.",
+        "deployment": "Bereitstellung",
+        "deploymentDesc": "Nahtloser Launch mit kontinuierlicher Unterstützung und Optimierung für Spitzenleistung."
+      }
+    },
+    "cta": {
+      "title": "Bereit, Ihr Projekt zu starten?",
+      "subtitle": "Lassen Sie uns besprechen, wie wir Ihnen helfen können, Ihre Technologie-Ziele zu erreichen.",
+      "cta": "Kontakt"
+    },
+    "whatWeOffer": "Was wir bieten"
+  },
+  "productsPage": {
+    "title": "Innovative Lösungen",
+    "subtitle": "Entdecken Sie unsere Suite von hochmodernen Produkten, die entwickelt wurden, um Ihr Unternehmen und persönliche Projekte zu transformieren.",
+    "badge": "Unsere Produkte",
+    "filter": "Filtern nach:",
+    "getStarted": "Benötigen Sie eine individuelle Lösung?",
+    "subtitleCta": "Wir bieten auch individuelle Produktentwicklung, die auf Ihre spezifischen Anforderungen zugeschnitten ist.",
+    "cta": "Kontakt"
+  }
+}

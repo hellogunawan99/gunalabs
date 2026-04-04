@@ -1,0 +1,192 @@
+{
+  "metadata": {
+    "title": "Gunalabs - Construire la Technologie de Demain Aujourd'hui",
+    "description": "Pionniers de l'avenir de la technologie grâce à des applications innovantes, l'intégration de l'IA et des solutions matérielles de pointe pour le B2B et l'usage personnel."
+  },
+  "nav": {
+    "home": "Accueil",
+    "services": "Services",
+    "products": "Produits",
+    "contact": "Contact"
+  },
+  "hero": {
+    "badge": "Innover pour l'Avenir de la Technologie",
+    "title": "Construire la Technologie de Demain Aujourd'hui",
+    "subtitle": "Des applications alimentées par l'IA au matériel de pointe, nous transformons les idées en solutions puissantes. Votre partenaire en innovation numérique.",
+    "cta": {
+      "getStarted": "Commencer",
+      "exploreServices": "Explorer les Services"
+    }
+  },
+  "services": {
+    "title": "Solutions Technologiques Complètes",
+    "subtitle": "Du concept au déploiement, nous fournissons des services technologiques de bout en bout qui favorisent l'innovation et la croissance.",
+    "badge": "Ce que nous proposons",
+    "viewAll": "Voir Tous les Services",
+    "getStarted": "Commencer avec {service}",
+    "items": {
+      "1": {
+        "title": "Développement d'Applications",
+        "description": "Solutions logicielles personnalisées adaptées à vos besoins métier. Des applications web aux systèmes d'entreprise, nous construisons des applications évolutives et robustes."
+      },
+      "2": {
+        "title": "Digitalisation",
+        "description": "Transformez vos processus métier avec des solutions numériques. Nous aidons à rationaliser les opérations, réduire les coûts et améliorer l'efficacité grâce à la technologie."
+      },
+      "3": {
+        "title": "Intégration IA",
+        "description": "Tirez parti de la puissance de l'intelligence artificielle pour améliorer vos produits et services. De l'apprentissage automatique au traitement du langage naturel."
+      },
+      "4": {
+        "title": "Produits Matériels",
+        "description": "Solutions matérielles innovantes pour l'IoT, les systèmes embarqués et l'informatique spécialisée. Du concept à la production, nous livrons du matériel de qualité."
+      },
+      "5": {
+        "title": "Produits Numériques",
+        "description": "Produits numériques prêts à être lancés, y compris les plateformes SaaS, les applications mobiles et les solutions cloud. Nous vous aidons à commercialiser vos idées numériques."
+      }
+    }
+  },
+  "products": {
+    "title": "Solutions Innovantes",
+    "subtitle": "Découvrez notre suite de produits de pointe conçus pour transformer votre entreprise.",
+    "badge": "Nos Produits",
+    "viewAll": "Voir Tous les Produits",
+    "categories": {
+      "all": "Tous",
+      "hardware": "Matériel",
+      "digital": "Numérique"
+    },
+    "learnMore": "En savoir plus",
+    "requestDemo": "Demander une Démo",
+    "getStarted": "Commencer",
+    "specs": "Spécifications"
+  },
+  "about": {
+    "title": "Pionniers de la Technologie pour un Meilleur Demain",
+    "subtitle": "Fondée en 2016, Gunalabs est à l'avant-garde de l'innovation technologique. Nous combinons une expertise approfondie avec une pensée créative pour fournir des solutions qui transforment les entreprises et améliorent la vie.",
+    "badge": "À Propos",
+    "stats": {
+      "projects": "Projets Réalisés",
+      "clients": "Clients Satisfaits",
+      "team": "Membres de l'Équipe",
+      "years": "Années d'Expérience"
+    },
+    "values": {
+      "precision": {
+        "title": "Précision",
+        "description": "Nous livrons des solutions avec une attention méticuleuse aux détails et une qualité sans compromis."
+      },
+      "innovation": {
+        "title": "Innovation",
+        "description": "Repousser les limites pour créer des solutions qui façonnent l'avenir de la technologie."
+      },
+      "partnership": {
+        "title": "Partenariat",
+        "description": "Votre succès est notre succès. Nous construisons des relations durables avec nos clients."
+      }
+    }
+  },
+  "testimonials": {
+    "title": "Ce que Disent Nos Clients",
+    "subtitle": "Ne nous croyez pas sur parole. Écoutez les témoignages des entreprises que nous avons aidées à se transformer.",
+    "badge": "Témoignages"
+  },
+  "contactCta": {
+    "title": "Prêt à Transformer Votre Entreprise?",
+    "subtitle": "Discutons de la façon dont Gunalabs peut vous aider à atteindre vos objectifs technologiques. Contactez-nous aujourd'hui et commencez votre parcours de transformation numérique.",
+    "placeholder": "Entrez votre email",
+    "cta": "Commencer",
+    "subscribed": "Abonné!",
+    "privacy": "Pas de spam, désabonnement à tout moment. Nous respectons votre vie privée."
+  },
+  "contact": {
+    "title": "Contactez-nous",
+    "subtitle": "Vous avez un projet en tête? Discutons de la façon dont nous pouvons vous aider à atteindre vos objectifs.",
+    "badge": "Contact",
+    "form": {
+      "title": "Envoyez-nous un message",
+      "name": "Nom Complet",
+      "namePlaceholder": "Jean Dupont",
+      "email": "Adresse Email",
+      "emailPlaceholder": "jean@entreprise.com",
+      "company": "Entreprise",
+      "companyPlaceholder": "Votre Entreprise",
+      "subject": "Sujet",
+      "subjectPlaceholder": "Demande de Projet",
+      "message": "Message",
+      "messagePlaceholder": "Parlez-nous de votre projet...",
+      "submit": "Envoyer le Message",
+      "sending": "Envoi en cours...",
+      "success": "Message Envoyé!",
+      "successMessage": "Merci de nous avoir contactés. Nous vous répondrons dans les 24 heures."
+    },
+    "info": {
+      "title": "Informations de Contact",
+      "address": {
+        "label": "Adresse du Bureau",
+        "value": "123 Innovation Drive, Tech City, TC 12345, États-Unis"
+      },
+      "phone": {
+        "label": "Numéro de Téléphone",
+        "value": "+1 (555) 123-4567",
+        "hours": "Lun - Ven, 9h00 - 18h00 EST"
+      },
+      "email": {
+        "label": "Adresse Email",
+        "general": "hello@gunalabs.io",
+        "support": "support@gunalabs.io"
+      },
+      "hours": {
+        "label": "Heures d'Ouverture",
+        "weekdays": "Lundi - Vendredi: 9h00 - 18h00",
+        "weekend": "Samedi - Dimanche: Fermé"
+      }
+    },
+    "visitTitle": "Visitez Notre Bureau",
+    "visitSubtitle": "Nous serions ravis de vous rencontrer en personne. Prenez rendez-vous pour discuter de votre projet."
+  },
+  "footer": {
+    "tagline": "Pionniers de l'avenir de la technologie grâce à des applications innovantes, l'intégration de l'IA et des solutions matérielles de pointe.",
+    "services": "Services",
+    "products": "Produits",
+    "contact": "Contact",
+    "privacy": "Politique de Confidentialité",
+    "terms": "Conditions d'Utilisation",
+    "copyright": "© 2024 Gunalabs. Tous droits réservés."
+  },
+  "servicesPage": {
+    "title": "Solutions Technologiques Complètes",
+    "subtitle": "Du concept au déploiement, nous fournissons des services technologiques de bout en bout.",
+    "process": {
+      "title": "Comment Nous Travaillons",
+      "subtitle": "Une méthodologie éprouvée qui garantit la livraison réussie du projet à chaque fois.",
+      "badge": "Notre Processus",
+      "steps": {
+        "discovery": "Découverte",
+        "discoveryDesc": "Nous plongeons dans vos exigences, objectifs et défis pour comprendre vos besoins uniques.",
+        "strategy": "Stratégie",
+        "strategyDesc": "Nos experts élaborent une feuille de route complète alignée sur vos objectifs métier.",
+        "development": "Développement",
+        "developmentDesc": "Développement agile avec des mises à jour régulières, garantissant transparence et flexibilité.",
+        "deployment": "Déploiement",
+        "deploymentDesc": "Lancement transparent avec support continu et optimisation pour des performances optimales."
+      }
+    },
+    "cta": {
+      "title": "Prêt à Démarrer Votre Projet?",
+      "subtitle": "Discutons de la façon dont nous pouvons vous aider à atteindre vos objectifs technologiques.",
+      "cta": "Contactez-nous"
+    },
+    "whatWeOffer": "Ce que nous proposons"
+  },
+  "productsPage": {
+    "title": "Solutions Innovantes",
+    "subtitle": "Découvrez notre suite de produits de pointe conçus pour transformer votre entreprise et vos projets personnels.",
+    "badge": "Nos Produits",
+    "filter": "Filtrer par:",
+    "getStarted": "Besoin d'une Solution Personnalisée?",
+    "subtitleCta": "Nous offrons également un développement de produits personnalisé adapté à vos exigences spécifiques.",
+    "cta": "Contactez-nous"
+  }
+}

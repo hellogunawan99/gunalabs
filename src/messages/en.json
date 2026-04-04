@@ -1,0 +1,192 @@
+{
+  "metadata": {
+    "title": "Gunalabs - Building Tomorrow's Technology Today",
+    "description": "Pioneering the future of technology through innovative applications, AI integration, and cutting-edge hardware solutions for B2B and personal use."
+  },
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "products": "Products",
+    "contact": "Contact"
+  },
+  "hero": {
+    "badge": "Innovating the Future of Technology",
+    "title": "Building Tomorrow's Technology Today",
+    "subtitle": "From AI-powered applications to cutting-edge hardware, we transform ideas into powerful solutions. Your partner in digital innovation.",
+    "cta": {
+      "getStarted": "Get Started",
+      "exploreServices": "Explore Services"
+    }
+  },
+  "services": {
+    "title": "Comprehensive Tech Solutions",
+    "subtitle": "From concept to deployment, we provide end-to-end technology services that drive innovation and growth.",
+    "badge": "What We Offer",
+    "viewAll": "View All Services",
+    "getStarted": "Get Started with {service}",
+    "items": {
+      "1": {
+        "title": "Application Development",
+        "description": "Custom software solutions tailored to your business needs. From web applications to enterprise systems, we build scalable and robust applications."
+      },
+      "2": {
+        "title": "Digitalization",
+        "description": "Transform your business processes with digital solutions. We help streamline operations, reduce costs, and improve efficiency through technology."
+      },
+      "3": {
+        "title": "AI Integration",
+        "description": "Leverage the power of artificial intelligence to enhance your products and services. From machine learning to natural language processing."
+      },
+      "4": {
+        "title": "Hardware Products",
+        "description": "Innovative hardware solutions for IoT, embedded systems, and specialized computing. From concept to production, we deliver quality hardware."
+      },
+      "5": {
+        "title": "Digital Products",
+        "description": "Launch-ready digital products including SaaS platforms, mobile apps, and cloud-based solutions. We help you bring digital ideas to market."
+      }
+    }
+  },
+  "products": {
+    "title": "Innovative Solutions",
+    "subtitle": "Discover our suite of cutting-edge products designed to transform your business.",
+    "badge": "Our Products",
+    "viewAll": "View All Products",
+    "categories": {
+      "all": "All",
+      "hardware": "Hardware",
+      "digital": "Digital"
+    },
+    "learnMore": "Learn more",
+    "requestDemo": "Request Demo",
+    "getStarted": "Get Started",
+    "specs": "Specifications"
+  },
+  "about": {
+    "title": "Pioneering Technology for a Better Tomorrow",
+    "subtitle": "Founded in 2016, Gunalabs has been at the forefront of technological innovation. We combine deep expertise with creative thinking to deliver solutions that transform businesses and enhance lives.",
+    "badge": "About Us",
+    "stats": {
+      "projects": "Projects Completed",
+      "clients": "Happy Clients",
+      "team": "Team Members",
+      "years": "Years Experience"
+    },
+    "values": {
+      "precision": {
+        "title": "Precision",
+        "description": "We deliver solutions with meticulous attention to detail and uncompromising quality."
+      },
+      "innovation": {
+        "title": "Innovation",
+        "description": "Pushing boundaries to create solutions that shape the future of technology."
+      },
+      "partnership": {
+        "title": "Partnership",
+        "description": "Your success is our success. We build lasting relationships with our clients."
+      }
+    }
+  },
+  "testimonials": {
+    "title": "What Our Clients Say",
+    "subtitle": "Don't just take our word for it. Hear from the businesses we've helped transform.",
+    "badge": "Testimonials"
+  },
+  "contactCta": {
+    "title": "Ready to Transform Your Business?",
+    "subtitle": "Let's discuss how Gunalabs can help you achieve your technology goals. Get in touch today and start your digital transformation journey.",
+    "placeholder": "Enter your email",
+    "cta": "Get Started",
+    "subscribed": "Subscribed!",
+    "privacy": "No spam, unsubscribe at any time. We respect your privacy."
+  },
+  "contact": {
+    "title": "Get in Touch",
+    "subtitle": "Have a project in mind? Let's discuss how we can help you achieve your goals.",
+    "badge": "Contact Us",
+    "form": {
+      "title": "Send us a message",
+      "name": "Full Name",
+      "namePlaceholder": "John Doe",
+      "email": "Email Address",
+      "emailPlaceholder": "john@company.com",
+      "company": "Company",
+      "companyPlaceholder": "Your Company",
+      "subject": "Subject",
+      "subjectPlaceholder": "Project Inquiry",
+      "message": "Message",
+      "messagePlaceholder": "Tell us about your project...",
+      "submit": "Send Message",
+      "sending": "Sending...",
+      "success": "Message Sent!",
+      "successMessage": "Thank you for reaching out. We'll get back to you within 24 hours."
+    },
+    "info": {
+      "title": "Contact Information",
+      "address": {
+        "label": "Office Address",
+        "value": "123 Innovation Drive, Tech City, TC 12345, United States"
+      },
+      "phone": {
+        "label": "Phone Number",
+        "value": "+1 (555) 123-4567",
+        "hours": "Mon - Fri, 9am - 6pm EST"
+      },
+      "email": {
+        "label": "Email Address",
+        "general": "hello@gunalabs.io",
+        "support": "support@gunalabs.io"
+      },
+      "hours": {
+        "label": "Working Hours",
+        "weekdays": "Monday - Friday: 9:00 AM - 6:00 PM",
+        "weekend": "Saturday - Sunday: Closed"
+      }
+    },
+    "visitTitle": "Visit Our Office",
+    "visitSubtitle": "We'd love to meet you in person. Schedule an appointment to discuss your project."
+  },
+  "footer": {
+    "tagline": "Pioneering the future of technology through innovative applications, AI integration, and cutting-edge hardware solutions.",
+    "services": "Services",
+    "products": "Products",
+    "contact": "Contact",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "copyright": "© 2024 Gunalabs. All rights reserved."
+  },
+  "servicesPage": {
+    "title": "Comprehensive Tech Solutions",
+    "subtitle": "From concept to deployment, we provide end-to-end technology services that drive innovation and growth.",
+    "process": {
+      "title": "How We Work",
+      "subtitle": "A proven methodology that ensures successful project delivery every time.",
+      "badge": "Our Process",
+      "steps": {
+        "discovery": "Discovery",
+        "discoveryDesc": "We dive deep into your requirements, goals, and challenges to understand your unique needs.",
+        "strategy": "Strategy",
+        "strategyDesc": "Our experts craft a comprehensive roadmap aligned with your business objectives.",
+        "development": "Development",
+        "developmentDesc": "Agile development with regular updates, ensuring transparency and flexibility.",
+        "deployment": "Deployment",
+        "deploymentDesc": "Seamless launch with ongoing support and optimization for peak performance."
+      }
+    },
+    "cta": {
+      "title": "Ready to Start Your Project?",
+      "subtitle": "Let's discuss how we can help you achieve your technology goals.",
+      "cta": "Contact Us"
+    },
+    "whatWeOffer": "What We Offer"
+  },
+  "productsPage": {
+    "title": "Innovative Solutions",
+    "subtitle": "Discover our suite of cutting-edge products designed to transform your business and personal projects.",
+    "badge": "Our Products",
+    "filter": "Filter by:",
+    "getStarted": "Need a Custom Solution?",
+    "subtitleCta": "We also offer custom product development tailored to your specific requirements.",
+    "cta": "Contact Us"
+  }
+}

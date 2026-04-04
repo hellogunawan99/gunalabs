@@ -1,0 +1,192 @@
+{
+  "metadata": {
+    "title": "Gunalabs - Xây Dựng Công Nghệ Của Ngày Mai Ngay Hôm Nay",
+    "description": "Tiên phong tương lai công nghệ thông qua các ứng dụng đổi mới, tích hợp AI và giải pháp phần cứng tiên tiến cho B2B và sử dụng cá nhân."
+  },
+  "nav": {
+    "home": "Trang chủ",
+    "services": "Dịch vụ",
+    "products": "Sản phẩm",
+    "contact": "Liên hệ"
+  },
+  "hero": {
+    "badge": "Đổi mới Tương lai Công nghệ",
+    "title": "Xây Dựng Công Nghệ Của Ngày Mai Ngay Hôm Nay",
+    "subtitle": "Từ các ứng dụng dựa trên AI đến phần cứng tiên tiến, chúng tôi biến ý tưởng thành giải pháp mạnh mẽ. Đối tác của bạn trong đổi mới kỹ thuật số.",
+    "cta": {
+      "getStarted": "Bắt đầu",
+      "exploreServices": "Khám phá Dịch vụ"
+    }
+  },
+  "services": {
+    "title": "Giải pháp Công nghệ Toàn diện",
+    "subtitle": "Từ ý tưởng đến triển khai, chúng tôi cung cấp dịch vụ công nghệ end-to-end thúc đẩy đổi mới và tăng trưởng.",
+    "badge": "Những gì chúng tôi cung cấp",
+    "viewAll": "Xem tất cả dịch vụ",
+    "getStarted": "Bắt đầu với {service}",
+    "items": {
+      "1": {
+        "title": "Phát triển Ứng dụng",
+        "description": "Giải pháp phần mềm tùy chỉnh phù hợp với nhu cầu kinh doanh của bạn. Từ ứng dụng web đến hệ thống doanh nghiệp, chúng tôi xây dựng các ứng dụng có thể mở rộng và mạnh mẽ."
+      },
+      "2": {
+        "title": "Số hóa",
+        "description": "Chuyển đổi quy trình kinh doanh của bạn bằng giải pháp số. Chúng tôi giúp hợp lý hóa hoạt động, giảm chi phí và cải thiện hiệu quả thông qua công nghệ."
+      },
+      "3": {
+        "title": "Tích hợp AI",
+        "description": "Tận dụng sức mạnh của trí tuệ nhân tạo để nâng cao sản phẩm và dịch vụ của bạn. Từ học máy đến xử lý ngôn ngữ tự nhiên."
+      },
+      "4": {
+        "title": "Sản phẩm Phần cứng",
+        "description": "Giải pháp phần cứng đổi mới cho IoT, hệ thống nhúng và điện toán chuyên dụng. Từ ý tưởng đến sản xuất, chúng tôi cung cấp phần cứng chất lượng."
+      },
+      "5": {
+        "title": "Sản phẩm Kỹ thuật số",
+        "description": "Sản phẩm kỹ thuật số sẵn sàng ra mắt bao gồm nền tảng SaaS, ứng dụng di động và giải pháp đám mây. Chúng tôi giúp bạn đưa ý tưởng kỹ thuật số ra thị trường."
+      }
+    }
+  },
+  "products": {
+    "title": "Giải pháp Đổi mới",
+    "subtitle": "Khám phá bộ sưu tập sản phẩm tiên tiến của chúng tôi được thiết kế để chuyển đổi doanh nghiệp của bạn.",
+    "badge": "Sản phẩm của chúng tôi",
+    "viewAll": "Xem tất cả sản phẩm",
+    "categories": {
+      "all": "Tất cả",
+      "hardware": "Phần cứng",
+      "digital": "Kỹ thuật số"
+    },
+    "learnMore": "Tìm hiểu thêm",
+    "requestDemo": "Yêu cầu Demo",
+    "getStarted": "Bắt đầu",
+    "specs": "Thông số kỹ thuật"
+  },
+  "about": {
+    "title": "Tiên phong Công nghệ cho Ngày mai Tốt đẹp hơn",
+    "subtitle": "Được thành lập năm 2016, Gunalabs luôn đi đầu trong đổi mới công nghệ. Chúng tôi kết hợp chuyên môn sâu với tư duy sáng tạo để cung cấp giải pháp chuyển đổi doanh nghiệp và nâng cao cuộc sống.",
+    "badge": "Về chúng tôi",
+    "stats": {
+      "projects": "Dự án Hoàn thành",
+      "clients": "Khách hàng Hài lòng",
+      "team": "Thành viên Đội ngũ",
+      "years": "Năm Kinh nghiệm"
+    },
+    "values": {
+      "precision": {
+        "title": "Chính xác",
+        "description": "Chúng tôi cung cấp giải pháp với sự chú ý tỉ mỉ đến từng chi tiết và chất lượng không thỏa hiệp."
+      },
+      "innovation": {
+        "title": "Đổi mới",
+        "description": "Đẩy giới hạn để tạo ra giải pháp định hình tương lai công nghệ."
+      },
+      "partnership": {
+        "title": "Đối tác",
+        "description": "Thành công của bạn là thành công của chúng tôi. Chúng tôi xây dựng mối quan hệ lâu dài với khách hàng."
+      }
+    }
+  },
+  "testimonials": {
+    "title": "Khách hàng Nói gì",
+    "subtitle": "Đừng chỉ nghe từ chúng tôi. Hãy nghe từ những doanh nghiệp mà chúng tôi đã giúp chuyển đổi.",
+    "badge": "Đánh giá"
+  },
+  "contactCta": {
+    "title": "Sẵn sàng Chuyển đổi Doanh nghiệp của bạn?",
+    "subtitle": "Hãy thảo luận về cách Gunalabs có thể giúp bạn đạt được mục tiêu công nghệ. Liên hệ ngay hôm nay và bắt đầu hành trình chuyển đổi kỹ thuật số của bạn.",
+    "placeholder": "Nhập email của bạn",
+    "cta": "Bắt đầu",
+    "subscribed": "Đã đăng ký!",
+    "privacy": "Không spam, hủy đăng ký bất cứ lúc nào. Chúng tôi tôn trọng quyền riêng tư của bạn."
+  },
+  "contact": {
+    "title": "Liên hệ",
+    "subtitle": "Có dự án trong đầu? Hãy thảo luận về cách chúng tôi có thể giúp bạn đạt được mục tiêu.",
+    "badge": "Liên hệ",
+    "form": {
+      "title": "Gửi tin nhắn cho chúng tôi",
+      "name": "Họ và tên",
+      "namePlaceholder": "Nguyễn Văn A",
+      "email": "Địa chỉ Email",
+      "emailPlaceholder": "nguyenvana@congty.com",
+      "company": "Công ty",
+      "companyPlaceholder": "Công ty của bạn",
+      "subject": "Chủ đề",
+      "subjectPlaceholder": "Yêu cầu Dự án",
+      "message": "Tin nhắn",
+      "messagePlaceholder": "Kể về dự án của bạn...",
+      "submit": "Gửi tin nhắn",
+      "sending": "Đang gửi...",
+      "success": "Đã gửi tin nhắn!",
+      "successMessage": "Cảm ơn bạn đã liên hệ. Chúng tôi sẽ phản hồi trong vòng 24 giờ."
+    },
+    "info": {
+      "title": "Thông tin Liên hệ",
+      "address": {
+        "label": "Địa chỉ Văn phòng",
+        "value": "123 Đường Đổi mới, Thành phố Công nghệ, TC 12345, Hoa Kỳ"
+      },
+      "phone": {
+        "label": "Số điện thoại",
+        "value": "+1 (555) 123-4567",
+        "hours": "Thứ 2 - Thứ 6, 9:00 - 18:00 EST"
+      },
+      "email": {
+        "label": "Địa chỉ Email",
+        "general": "hello@gunalabs.io",
+        "support": "support@gunalabs.io"
+      },
+      "hours": {
+        "label": "Giờ làm việc",
+        "weekdays": "Thứ 2 - Thứ 6: 9:00 - 18:00",
+        "weekend": "Thứ 7 - Chủ nhật: Nghỉ"
+      }
+    },
+    "visitTitle": "Ghé thăm Văn phòng của chúng tôi",
+    "visitSubtitle": "Chúng tôi rất muốn gặp bạn trực tiếp. Đặt lịch hẹn để thảo luận về dự án của bạn."
+  },
+  "footer": {
+    "tagline": "Tiên phong tương lai công nghệ thông qua các ứng dụng đổi mới, tích hợp AI và giải pháp phần cứng tiên tiến.",
+    "services": "Dịch vụ",
+    "products": "Sản phẩm",
+    "contact": "Liên hệ",
+    "privacy": "Chính sách Quyền riêng tư",
+    "terms": "Điều khoản Dịch vụ",
+    "copyright": "© 2024 Gunalabs. Mọi quyền được bảo lưu."
+  },
+  "servicesPage": {
+    "title": "Giải pháp Công nghệ Toàn diện",
+    "subtitle": "Từ ý tưởng đến triển khai, chúng tôi cung cấp dịch vụ công nghệ end-to-end thúc đẩy đổi mới và tăng trưởng.",
+    "process": {
+      "title": "Cách chúng tôi Làm việc",
+      "subtitle": "Phương pháp đã được chứng minh đảm bảo giao hàng dự án thành công mọi lần.",
+      "badge": "Quy trình của chúng tôi",
+      "steps": {
+        "discovery": "Khám phá",
+        "discoveryDesc": "Chúng tôi đi sâu vào yêu cầu, mục tiêu và thách thức của bạn để hiểu nhu cầu độc đáo của bạn.",
+        "strategy": "Chiến lược",
+        "strategyDesc": "Chuyên gia của chúng tôi xây dựng lộ trình toàn diện phù hợp với mục tiêu kinh doanh của bạn.",
+        "development": "Phát triển",
+        "developmentDesc": "Phát triển Agile với cập nhật thường xuyên, đảm bảo minh bạch và linh hoạt.",
+        "deployment": "Triển khai",
+        "deploymentDesc": "Ra mắt liền mạch với hỗ trợ liên tục và tối ưu hóa hiệu suất cao."
+      }
+    },
+    "cta": {
+      "title": "Sẵn sàng Bắt đầu Dự án của bạn?",
+      "subtitle": "Hãy thảo luận về cách chúng tôi có thể giúp bạn đạt được mục tiêu công nghệ.",
+      "cta": "Liên hệ"
+    },
+    "whatWeOffer": "Những gì chúng tôi cung cấp"
+  },
+  "productsPage": {
+    "title": "Giải pháp Đổi mới",
+    "subtitle": "Khám phá bộ sưu tập sản phẩm tiên tiến của chúng tôi được thiết kế để chuyển đổi doanh nghiệp và dự án cá nhân của bạn.",
+    "badge": "Sản phẩm của chúng tôi",
+    "filter": "Lọc:",
+    "getStarted": "Cần Giải pháp Tùy chỉnh?",
+    "subtitleCta": "Chúng tôi cũng cung cấp phát triển sản phẩm tùy chỉnh phù hợp với yêu cầu cụ thể của bạn.",
+    "cta": "Liên hệ"
+  }
+}
